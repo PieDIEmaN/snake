@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Project for c++\Prokliti\Prokliti\Board.h(50,40): error C3861: rand: идентификатор не найден
+E:\Project for c++\Prokliti\Prokliti\Board.h(50,61): error C3861: rand: идентификатор не найден
+E:\Project for c++\Prokliti\Prokliti\Board.h(50,1): error C2660: mvwinch: функция не принимает 1 аргументов
+E:\Project for c++\Prokliti\Prokliti\include\curses.h(999,9): message : см. объявление "mvwinch"
+E:\Project for c++\Prokliti\Prokliti\Snake.h(15,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Project for c++\Prokliti\Prokliti\main.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Project for c++\Prokliti\Prokliti\main.cpp(19,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
